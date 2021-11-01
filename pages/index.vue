@@ -1,5 +1,5 @@
 <template>
   <div>
-    <h2>ajcwebdev-nuxt3</h2>
+    <p>TODO homePage</p>
   </div>
 </template>
