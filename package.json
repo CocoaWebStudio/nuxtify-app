@@ -9,6 +9,8 @@
     "nuxt3": "latest"
   },
   "dependencies": {
-    "@shopify/shopify-api": "^2.0.0"
+    "@shopify/shopify-api": "^2.0.0",
+    "dotenv": "^10.0.0",
+    "typescript": "^4.4.4"
   }
 }
